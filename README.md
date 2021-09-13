@@ -4,4 +4,4 @@ I'm a student and i love everything related to computers (except debugging, bruh
 If you wanna chat with me, you can find me in [Discord](https://discord.com), add me as friend, my profile is `NOT-Guillem#8042`
 
 
-![Guillem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alonely0&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alonely0&exclude_repo=verdugo,verdugo-web,payload-mimikatz-procdump-for-rubber-ducky,password_generator,blockchain-particles,dotfiles&layout=compact&theme=gruvbox)](https://github.com/alonely0/github-readme-stats)
+![Guillem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alonely0&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alonely0&hide=HTML&exclude_repo=verdugo,verdugo-web,payload-mimikatz-procdump-for-rubber-ducky,password_generator,blockchain-particles,dotfiles&layout=compact&theme=gruvbox)](https://github.com/alonely0/github-readme-stats)
