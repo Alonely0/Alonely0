@@ -7,4 +7,4 @@ Right now, I'm working on [TPR](https://github.com/Alonely0/tpr), a decentralize
 Contact: `4lon3ly0@tutanota.com`
 
 
-![Guillem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alonely0&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alonely0&hide=HTML&exclude_repo=verdugo,verdugo-web,payload-mimikatz-procdump-for-rubber-ducky,password_generator,blockchain-particles,dotfiles&layout=compact&theme=gruvbox&count_weight=1)](https://github.com/alonely0/github-readme-stats)
+![Guillem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alonely0&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alonely0&hide=HTML&exclude_repo=verdugo,verdugo-web,yuzu-protest,payload-mimikatz-procdump-for-rubber-ducky,password_generator,blockchain-particles,dotfiles&layout=compact&theme=gruvbox&count_weight=1)](https://github.com/alonely0/github-readme-stats)
